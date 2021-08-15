@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logoColor=white&logo=javascript)
 ![](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logoColor=white&logo=typescript)
-<img alt="Vue" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white" />
+![](https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logoColor=white&logo=Vue.js)
 ![](https://img.shields.io/badge/-React-5ED3F3?style=flat&logoColor=white&logo=react)
 ![](https://img.shields.io/badge/-Flutter-02569b?style=flat&logoColor=white&logo=flutter)
 ![](https://img.shields.io/badge/-Docker-2496ed?style=flat&logoColor=white&logo=docker)

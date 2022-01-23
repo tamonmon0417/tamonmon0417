@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=tamonmon0417)
 
 ## Where to find me
 <a href="https://twitter.com/tamonmon0417" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>

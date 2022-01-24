@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <a href="https://www.linkedin.com/in/tamon-okamoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkdin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://qiita.com/tamonmon" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
 
-## Skills
+<!-- ## Skills
 
 ![](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat&logoColor=white&logo=javascript)
 ![](https://img.shields.io/badge/-Typescript-007ACC?style=flat&logoColor=white&logo=typescript)
@@ -35,5 +35,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logoColor=white&logo=firebase)
 ![](https://img.shields.io/badge/-Sentry-FB4226?style=flat&logoColor=white&logo=sentry)
 ![](https://img.shields.io/badge/-Netlify-00C7B7?style=flat&logoColor=white&logo=netlify)
-
+ -->
 

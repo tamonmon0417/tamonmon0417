@@ -15,10 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Where to find me
-<a href="https://twitter.com/tamonmon0417" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/tamon-okamoto" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/linkdin-0a66c2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://qiita.com/tamonmon" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/qiita-55C500.svg?&style=for-the-badge&logo=qiita&logoColor=white" /></a>
+
 
 <!-- ## Skills
 

@@ -1,4 +1,4 @@
-Hi👋
+![hippo](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tamonmon0417&show_icons=true) -->
 
